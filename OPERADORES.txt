@@ -1,0 +1,14 @@
+operadores:
+{
+-
+*
+/
+=
+&&
+|| 
+==
+
+++ (operador de incremento en 1) le suman uno a la variable;
+-- (operador de decremento en 1) le restan uno a la variable;
++= (operador de incremento en N) le aumentan N a la variable;
+-= (operador de decremento en N) le restan N a la variable;
